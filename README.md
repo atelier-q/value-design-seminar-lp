@@ -10,4 +10,4 @@
 
 ## 公開URL
 
-GitHub Pages公開後に追記します。
+https://atelier-q.github.io/value-design-seminar-lp/
